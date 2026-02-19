@@ -1,9 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\DVLDProject\\DVLD\\",
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\DVLD\\DVLDProject\\DVLD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1BE28AD-D036-4C77-964C-9EE4ACC6727A}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|c:\\users\\dell\\source\\repos\\dvldproject\\dvld_dataaccess\\applicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|c:\\users\\dell\\desktop\\dvld\\dvldproject\\dvld\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationType.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DVLDProject\\DVLD_DataAccess\\ApplicationType.cs",
-              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\ApplicationType.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DVLDProject\\DVLD_DataAccess\\ApplicationType.cs",
-              "RelativeToolTip": "..\\DVLD_DataAccess\\ApplicationType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\DVLD\\DVLDProject\\DVLD\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\DVLD\\DVLDProject\\DVLD\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T19:45:36.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T12:50:04.037Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
