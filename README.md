@@ -7,7 +7,7 @@ but in general, these departments include a group It is a common and essential t
 and manage the process of issuing driving licenses and ensuring the provision of drivers Safe on the roads.
 
 for right runtime project 
-first add DVLD.bac for your database in sql server managment studio 
+first add DVLD.bak for your database in sql server managment studio 
 
 note : 
 UserName : abd 
